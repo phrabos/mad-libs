@@ -80,11 +80,13 @@ h1 {
 }
 input {
     margin: 3px;
+    height: 30px;
+    font-size: 20px;
 }
 .inputs {
     display: flex;
     flex-direction: column;
-    width: 250px;
+    width: 350px;
 }
 
 .hidden {
